@@ -1,0 +1,56 @@
+div.ex1 {
+  height: auto;
+  width:auto;
+  margin: auto;
+/*  background-color: #ccffff;
+*/  border: 3px;
+}
+button.btn {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+button {
+  padding: 15px 25px;
+  font-size: 18px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #1aff1a;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+body{
+	background-image: url('img.jpg');
+}
+h1 {
+	text-align: center;
+}
+img{
+	height: auto;
+	width: auto;
+}
+p{
+	padding: 15px 25px;
+	font-size: 20px;
+	text-align: left;
+/*	background-color: red;
+*/
+	color: green;
+}
+h3{
+	padding: 15px 25px;
+}

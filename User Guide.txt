@@ -1,0 +1,11 @@
+First click on the "Click for a Question button"
+Then the first question is displayed.
+Select any of the option.
+All the buttons are disabled after you select an option.
+Then the correct answer is displayed below the options.
+Then click on the next question and repeat the same process.
+There are a total of 5 Questions.
+After you answer all the questions your score would be popped in an alert box.
+Note: You can attend the next question only if you answered the given question.
+
+Thanks!!
