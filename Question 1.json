@@ -1,7 +1,6 @@
-[
-  {
+{
     "Question": "Capital of India?",
     "Answer" : "Delhi",
     "Options": ["Mumbai", "Hyderabad", "Delhi", "Bengaluru"]
   }
-]
+  
